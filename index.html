@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>GBM-Atlas</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <link href="css/prettyPhoto.css" rel="stylesheet">
+    <link href="css/animate.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
+    <!--[if lt IE 9]>
+    <script src="js/html5shiv.js"></script>
+    <script src="js/respond.min.js"></script>
+    <![endif]-->       
+    <link rel="shortcut icon" href="images/ico/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="images/ico/apple-touch-icon-57-precomposed.png">
+
+</head><!--/head-->
+<body>
+    <div class="wrapper">
+    <header class="navbar navbar-inverse navbar-fixed-top wet-asphalt" role="banner">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="index.html"><img src="images/logo.svg" alt="logo"> <h7> gbmAtlas</h7></a>
+            </div>
+            <div class="collapse navbar-collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="active"><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="publications.html">Publications</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </div>
+        </div>
+    </header><!--/header-->
+    <section id="main-slider" class="no-margin">
+        <div class="carousel slide wet-asphalt">
+            <ol class="carousel-indicators">
+                <li data-target="#main-slider" data-slide-to="0" class="active"></li>
+                <li data-target="#main-slider" data-slide-to="1"></li>
+                <li data-target="#main-slider" data-slide-to="2"></li>
+            </ol>
+            <div class="carousel-inner">
+                <div class="item active" style="background-image: url(images/slider/bg1.jpg)">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="carousel-content centered">
+                                    <h2 class="animation animated-item-1">Gene Search</h2>
+                                    <p class="animation animated-item-2">Gene search will allow you to investigate the relationship between gene probe expression, glioblastoma survival, and demographics.</p>
+                                    <a href="gsearch.php"><h3 class="btn btn-md animation animated-item-3" href="gsearch.php">Go To Gene Search</h3></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div><!--/.item-->
+                <div class="item" style="background-image: url(images/slider/bg2.jpg)">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="carousel-content centered">
+                                    <h2 class="animation animated-item-1">Anatomical Search</h2>
+                                    <p class="animation animated-item-2">Select anatomic localizations of tumor burden in group A and group B that you would like to perform a differential gene analysis on.</p>
+                                    <a href="asearch.php"><h3 class="btn btn-md animation animated-item-3" href="asearch.php">Go To Anatomical Search</h3></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div><!--/.item-->
+                <div class="item" style="background-image: url(images/slider/bg3.jpg)">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <div class="carousel-content centered">
+                                    <h2 class="animation animated-item-1">Learn a bit about us!</h2>
+                                    <p class="animation animated-item-2">Meet the people behind the project!</p>
+                                    <a href="about.html"><h3 class="btn btn-md animation animated-item-3">Learn More About Us</h3></a>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 hidden-xs animation animated-item-4">
+                                <div class="centered">
+                                    <div class="embed-container">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div><!--/.item-->
+            </div><!--/.carousel-inner-->
+        </div><!--/.carousel-->
+        <a class="prev hidden-xs" href="#main-slider" data-slide="prev" style="margin-left: 25px">
+            <i class="icon-angle-left"></i>
+        </a>
+        <a class="next hidden-xs" href="#main-slider" data-slide="next" style="margin-right: 25px">
+            <i class="icon-angle-right"></i>
+        </a>
+    </section><!--/#main-slider-->
+
+    <style type="text/css" rel="inwards_stylesheet" spread='none' href="#">
+        :goto => media ({
+            test:var --point --xcode-select 'install';
+        });
+    </style>
+
+    <section id="services" class="emerald" style="padding-top: 85px; padding-bottom: 85px">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 col-sm-6">
+                    <div class="media">
+                        <a href="gsearch.php">
+                            <div class="pull-left">
+                                <i class="icon-search icon-md" style="display:block"></i>
+                            </div>
+                            <div class="media-body">
+                                <a href="gsearch.php"><h3 class="media-heading">Search Genes</h3></a>
+                                <p>Search for genes expressed in subtypes of glioblastoma multiforme.</p>
+                            </div>
+                        </a>
+                    </div>
+                </div><!--/.col-md-4-->
+                <div class="col-md-4 col-sm-6">
+                    <div class="media">
+                        <a href="asearch.php">
+                            <div class="pull-left">
+                                <i class="icon-signal icon-md" style="display:block"></i>
+                            </div>
+                            <div class="media-body">
+                                <a href="asearch.php"><h3 class="media-heading">Anatomical</h3></a>
+                                <p>Search for differential expression in different regions of the brain</p>
+                            </div>
+                        </a>
+                    </div>
+                </div><!--/.col-md-4-->
+                <div class="col-md-4 col-sm-6">
+                    <div class="media">
+                        <a href="about.html">
+                            <div class="pull-left">
+                                <i class="icon-user-md icon-md" style="display:block"></i>
+                            </div>
+                            <div class="media-body">
+                                <a href="about.html"><h3 class="media-heading">About</h3></a>
+                                <p>Learn more about the GBM-Atlas</p>
+                            </div>
+                        </a>
+                    </div>
+                </div><!--/.col-md-4-->
+            </div>
+        </div>
+    </section><!--/#searchtype-->
+    </style>
+        <div class="push"></div><!--/.push-->
+    </div><!--/.wrapper-->
+
+    <div class="footer">
+        <footer id="footer" class="midnight-blue">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-6">
+                        &copy; 2014 <a target="_blank" title="Stanford University">Stanford University</a>. All Rights Reserved.
+                    </div>
+                    <div class="col-sm-6">
+                        <ul class="pull-right">
+                            <li><a id="gototop" class="gototop" href="#"><i class="icon-chevron-up"></i></a></li><!--#gototop-->
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </footer><!--/#footer-->
+    </div><!--/.footer-->
+
+
+    <script src="js/jquery.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.prettyPhoto.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>

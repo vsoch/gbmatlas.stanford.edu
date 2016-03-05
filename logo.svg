@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300"
+   height="50"
+   id="svg4355"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs4357" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="375"
+     inkscape:cy="501.792"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="876"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4360">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1002.3622)">
+    <text
+       xml:space="preserve"
+       style="font-size:42.83158493px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="73.955933"
+       y="1023.7845"
+       id="text4363"
+       sodipodi:linespacing="125%"
+       transform="scale(0.98031278,1.0200826)"><tspan
+         sodipodi:role="line"
+         id="tspan4365"
+         x="73.955933"
+         y="1023.7845"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:arial;-inkscape-font-specification:arial">GBM-Atlas</tspan></text>
+    <path
+       style="fill:#f59614;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 30.892924,1007.5827 c -4.97951,0 -10.005999,0.8313 -14.334387,3.4265 -5.042538,2.6138 -10.2263798,5.8482 -12.4936906,11.3 -1.9596921,3.4984 -2.5287634,7.9475 -0.3164744,11.4645 1.2108756,2.833 4.5836998,3.024 7.06677,4.0799 1.17303,0.4062 2.861178,-0.1509 3.69816,0.5347 0.672523,3.6815 4.747115,5.0338 7.99136,5.4212 1.811046,0.2655 2.95475,-1.7757 4.575417,-1.8051 3.048025,1.3075 4.238893,5.0896 7.08515,6.6603 1.48805,0.3099 1.885376,-1.7547 3.436391,-1.4477 4.358802,0.043 8.239817,-3.0213 9.519918,-7.1234 0.776949,-2.1694 0.936333,-4.7269 2.932158,-6.1685 2.755995,-3.9104 0.486294,-8.8265 -1.332073,-12.6163 -2.546274,-5.0104 -6.475619,-9.3887 -11.197238,-12.4134 -2.030544,-1.0943 -4.349023,-1.3791 -6.631461,-1.3127 z m 0.820493,2.5483 c 6.991875,0.132 11.990727,6.0746 14.900055,11.8676 1.767052,3.2362 3.4695,7.3298 1.249052,10.7779 -2.378248,2.295 -2.290656,6.1137 -4.691257,8.417 -1.647726,2.0445 -4.29137,2.5929 -6.756946,2.8283 -0.857329,0.2842 -1.415494,1.6777 -2.451812,0.7048 -2.137798,-1.26 -3.501234,-4.0301 -5.965412,-4.7107 -1.895629,0.2457 -3.547687,2.0256 -5.540711,1.0328 -2.396904,-0.7097 -5.339474,-1.4262 -6.004017,-4.2182 -0.701404,-1.3126 -2.496308,0 -3.590836,-0.753 -2.733321,-0.4965 -5.6601456,-1.9968 -6.2550051,-4.9903 -1.445696,-4.2814 0.3897238,-8.862 3.2626379,-12.0757 3.2847922,-3.8305 8.2065142,-5.7647 12.7320192,-7.7705 2.907373,-0.8941 6.063865,-1.114 9.112232,-1.11 z"
+       id="path3974"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
